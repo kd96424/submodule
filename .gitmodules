@@ -1,0 +1,3 @@
+[submodule "score_flutter_module"]
+	path = score_flutter_module
+	url = https://github.com/kd96424/AW.git
